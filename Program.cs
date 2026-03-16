@@ -27,6 +27,7 @@ builder.Services.AddScoped<CommentService>();
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseNpgsql(
         builder.Configuration.GetConnectionString("DefaultConnection")
+        ?? Environment.GetEnvironmentVariable("DATABASE_URL")
     ));
 
 var app = builder.Build();
