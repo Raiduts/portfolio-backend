@@ -131,3 +131,4 @@ D:\Workspace\Web\Backend\ASP .Net\backend-portofolio\portfolio-api\bin\Debug\net
 D:\Workspace\Web\Backend\ASP .Net\backend-portofolio\portfolio-api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\Workspace\Web\Backend\ASP .Net\backend-portofolio\portfolio-api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\Workspace\Web\Backend\ASP .Net\backend-portofolio\portfolio-api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Workspace\Web\Backend\ASP .Net\backend-portofolio\portfolio-api\obj\Debug\net9.0\portfolio-api.sourcelink.json
